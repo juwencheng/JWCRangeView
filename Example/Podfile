@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JWCRangeView_Example' do
+  pod 'JWCRangeView', :path => '../'
+
+  target 'JWCRangeView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
