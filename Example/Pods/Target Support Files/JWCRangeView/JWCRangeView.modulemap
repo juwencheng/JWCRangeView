@@ -1,0 +1,6 @@
+framework module JWCRangeView {
+  umbrella header "JWCRangeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

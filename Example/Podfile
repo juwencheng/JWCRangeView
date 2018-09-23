@@ -1,5 +1,7 @@
 use_frameworks!
 
+source 'git@bitbucket.org:juwencheng/privatespecrepo.git'
+source 'https://github.com/cocoapods/specs.git'
 target 'JWCRangeView_Example' do
   pod 'JWCRangeView', :path => '../'
 

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JWCRangeView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JWCRangeView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JWCRangeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JWCRangeView: 47167836241c845c268f706bf7fc8dc6c73872c1
+
+PODFILE CHECKSUM: 667b367edbf942187d8c4ff0ae3f08c4ed4a7925
+
+COCOAPODS: 1.5.3

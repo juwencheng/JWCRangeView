@@ -1,0 +1,22 @@
+{
+  "name": "JWCRangeView",
+  "version": "0.1.0",
+  "summary": "A short description of JWCRangeView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Owen Ju/JWCRangeView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Owen Ju": "owenju@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/Owen Ju/JWCRangeView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JWCRangeView/Classes/**/*"
+}
